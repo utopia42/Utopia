@@ -1,0 +1,14 @@
+Name	|	Description
+
+Crazy_DNA	This project try to build a model of DNA,and the way it works.
+
+Empty_World This project try to implement a interface(world), thsi world has the same 				rules with real world.
+
+Neuron_cell	This project try to implement a virtual neuron cell.
+
+True_man	This project try to build a modle of humanbeing.
+
+
+The Final Perpose of this project is to use the rules of DNA to Create a Neuron_cell , and Use the neuron cell to create a Trueman, and Then put Trueman in the Emplty world.
+	This gonna be a huge project, and whether fail or success , i hope this project can give some inspration for humankind,and if we are lucky, we may create a new world. 
+ 
