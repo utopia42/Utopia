@@ -5,6 +5,12 @@
 
 	Until now this repo include three folder: each them is incubator，farm, playground.  
 
+
+# The purpose of this idea
+
+	I want to create a world which is self-adjust and self-learning and the agents in the world should be independed, it build from DNA to a TrueMan, and This TrueMan lives in this world, it is a crazy idea, and it is Unrealistic, based on the current achievement of computer science it seems impossible，but if you are interested and you want to have some fun when you are free, welcome to join in.
+
+
 ### incubator
 	incubator is used to for you to implement your idea, 
 	you can create your own folder in here, mosts of the thought are stored in here,
